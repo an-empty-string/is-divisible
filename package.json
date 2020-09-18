@@ -1,0 +1,35 @@
+{
+  "name": "divisiblity",
+  "version": "1.0.1",
+  "description": "A package for seeing if numbers are divisible by other numbers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "is-equal-to": "^1.1.2",
+    "modulus-operator": "^1.0.0",
+    "number-zero": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-empty-string/is-divisible.git"
+  },
+  "keywords": [
+    "divisibility",
+    "modulus",
+    "modulo",
+    "divisible",
+    "division"
+  ],
+  "author": "Tris Wilson",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/an-empty-string/is-divisible/issues"
+  },
+  "homepage": "https://github.com/an-empty-string/is-divisible#readme"
+}
